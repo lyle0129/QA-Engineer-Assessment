@@ -1,0 +1,9 @@
+node_modules/
+dist/
+playwright-report/
+test-results/
+playwright/.cache/
+*.log
+.DS_Store
+# Excel temp files
+~$*.xlsx
